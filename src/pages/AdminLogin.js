@@ -107,7 +107,7 @@ const AdminLogin = () => {
         </Card>
 
         <p className="text-center text-sm text-slate-600 mt-4">
-          Default: username=admin, password=admin123
+          Default: username=admin, password=asdf123
         </p>
       </div>
     </div>
